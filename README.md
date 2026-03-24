@@ -70,6 +70,14 @@ Two approaches were tested:
 
 ---
 
+## 🧾 Printing services
+
+If you don’t have access to a 3D printer, this design can be easily ordered from most online printing services.
+
+I used a commercial printing service ([Xometry](https://www.xometry.com)) with standard PLA settings, and the parts worked well with minimal cleanup.
+
+---
+
 ## 🔩 Assembly notes
 
 * Bearing shafts are intentionally undersized
