@@ -98,7 +98,7 @@ This is a simple mechanical improvement — no electronics, no complex tuning �
 ## 📎 Related article
 
 Full write-up and background:
-👉 *(link your Blogger post here)*
+👉 [Opera Consonance Wax Engine Anti-Skate Modification (DIY Fix), Blog post](https://geri-in-ny.blogspot.com/2026/03/opera-consonance-wax-engine-anti-skate.html)
 
 ---
 
