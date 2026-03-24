@@ -47,7 +47,7 @@ Two approaches were tested:
 ### 2. Braided fishing line (recommended)
 
 * Consistent diameter
-* Easy to work with
+* Easy(er...) to work with
 * Very strong and stable
 
 👉 Recommendation: use the thinnest braided line available.
@@ -56,7 +56,7 @@ Two approaches were tested:
 
 ## 🧱 Files included
 
-* `/cad/AntiSkatingOnePiece.FCStd` → full FreeCAD model
+* `/AntiSkatingOnePiece.FCStd` → full FreeCAD model
 * `/stl/` → ready-to-print parts
 * `/images/` → reference and assembly images
 
