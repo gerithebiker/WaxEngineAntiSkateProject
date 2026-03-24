@@ -54,6 +54,35 @@ Two approaches were tested:
 
 ---
 
+## 🔩 Bearings
+
+Shielded (ZZ) miniature ball bearings are used in this design.
+
+Recommended size:
+- Inner diameter: 2 mm  
+- Outer diameter: 5 mm  
+- Width: 2.5 mm  
+
+These are commonly referred to as **MR52ZZ bearings** and are widely available from many suppliers. You need 2 pieces.
+
+---
+
+## 🔧 Shafts
+
+The bearings are mounted on simple 2 mm shafts.
+
+These can be:
+- 2 mm steel rods  
+- Cut sections of drill bits  
+- Any straight, rigid 2 mm metal rod  
+
+You need 1 piece of 20-22mm long, and one 17mm long.
+
+Make sure the shaft fits snugly and keeps the bearings aligned. If the shafts feel loose, you can glue them in place.
+Just be careful — once glued, they’re not coming out easily, so treat this as a final step.
+
+---
+
 ## 🧱 Files included
 
 * `/AntiSkatingOnePiece.FCStd` → full FreeCAD model
@@ -74,7 +103,7 @@ Two approaches were tested:
 
 If you don’t have access to a 3D printer, this design can be easily ordered from most online printing services.
 
-I used a commercial printing service ([Xometry](https://www.xometry.com)) with standard PLA settings, and the parts worked well with minimal cleanup.
+I used a commercial printing service ([Xometry](https://www.xometry.com)) with standard PLA settings, printed in black PLA, and the parts worked well with minimal cleanup.
 
 ---
 
