@@ -104,5 +104,4 @@ Full write-up and background:
 
 ## 🤘 License
 
-Free to use, modify, and share.
-If you improve it, feel free to share back!
+CERN-OHL-S v2 — Strongly Reciprocal Open Hardware License.
