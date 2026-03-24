@@ -109,7 +109,7 @@ I used a commercial printing service ([Xometry](https://www.xometry.com)) with s
 
 ## 🔩 Assembly notes
 
-* Bearing shafts are intentionally undersized
+* The holes for bearing shafts are intentionally undersized
 * Drill holes to **2 mm** during assembly
 * This ensures proper fit despite printing tolerances
 
