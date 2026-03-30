@@ -51,6 +51,7 @@ Two approaches were tested:
 * Very strong and stable
 
 👉 Recommendation: use the thinnest braided line available.
+👉 If you don't have a special fishing line cutter, then the best way to cut is using a torch lighter. Normal scissors, knifes will _not_ work!
 
 ---
 
