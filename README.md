@@ -94,7 +94,7 @@ Just be careful — once glued, they’re not coming out easily, so treat this a
 
 ## 🖨️ Printing notes
 
-* Material: PLA or PETG
+* Material: First I used SLS (see pics), but the surface is not really smooth, but otherwise very good.  For the second print I used UTR imagine black resin.
 * Layer height: standard (0.2 mm works fine)
 * No special settings required
 
@@ -105,6 +105,7 @@ Just be careful — once glued, they’re not coming out easily, so treat this a
 If you don’t have access to a 3D printer, this design can be easily ordered from most online printing services.
 
 I used a commercial printing service ([Xometry](https://www.xometry.com)) with standard PLA settings, printed in black PLA, and the parts worked well with minimal cleanup.
+Services, like JLCPCB are using different coordinate as "up", so you might need to re-create the STL files.
 
 ---
 
