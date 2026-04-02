@@ -5,7 +5,7 @@ doc = App.newDocument("Pulley")
 
 # Parameters
 outer_diameter = 8.0
-width = 3.0
+width = 4.0
 shaft_diameter = 5.0
 groove_radius = 0.60
 groove_depth = groove_radius / 1.5
